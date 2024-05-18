@@ -8,7 +8,7 @@ Every change in life comes with both good and bad consequences; it's up to you t
 ### My newer projects:
 
 [LAM Template Site](https://animelam.netlify.app/)<br>
-[Elegance Template Site.com](https://elegance2.netlify.app/)
+[Elegance Template Site](https://elegance2.netlify.app/)
 
 <hr>
 
