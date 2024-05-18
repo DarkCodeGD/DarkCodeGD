@@ -14,8 +14,8 @@ Every change in life comes with both good and bad consequences; it's up to you t
 
 ### Older projects:
 
-It's not ever worth looking at these,
-but hey, if you want here you go.
+It's not even worth looking at these projects,
+but hey, if you want, here you go!
 
 ## 👇
 
