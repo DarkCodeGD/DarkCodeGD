@@ -1,5 +1,5 @@
 # About Me:
-My real name is Ayon Sarker, but you'll often see me go by Ethan Daylon. I'm 21 years old and currently diving into JavaScript and its frameworks, aiming to become a full-stack developer.
+My real name is Ayon Sarker. I'm 21 years old and currently diving into JavaScript and its frameworks, aiming to become a full-stack developer.
 
 The world is changing rapidly, and we must adapt both in our actions and mindset. 
 I've seen many people being replaced by AI systems. While some view this as a negative development, I see it as an opportunity.
