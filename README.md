@@ -26,8 +26,7 @@ but hey, if you want, here you go!
 
 <hr>
 
-# Ayon Sarker | Ethan Daylon | Dark Code
+# Ayon Sarker | Zeruth Orzen | Dark Code
 
 [Facebook Social](https://web.facebook.com/ayon.sarker.378537)<br>
-[TwitterX Social](https://twitter.com/Ethan_Daylon)<br>
 [Github Social](https://github.com/DarkCodeGD)
